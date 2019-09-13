@@ -1,0 +1,1 @@
+{"rustc":18319621036810365094,"features":"[]","target":15586965302802957762,"profile":9935990280773120926,"path":8375133317082266302,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"x86_64-blog_os/debug/.fingerprint/spin-60fc42a6a7149005/dep-lib-spin-60fc42a6a7149005"}}],"rustflags":["--sysroot","/home/meip-users/rustworks/blog_os/target/sysroot"],"metadata":6620005600999123125}
